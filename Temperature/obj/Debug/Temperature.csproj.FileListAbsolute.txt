@@ -1,0 +1,10 @@
+C:\Users\yakim\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\yakim\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\yakim\source\repos\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csprojAssemblyReference.cache
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.Form1.resources
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.cache
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\yakim\source\repos\Temperature\Temperature\obj\Debug\Temperature.pdb
